@@ -14,7 +14,7 @@ Welcome to the Grunwald lab at the USDA ARS, Horticultural Crops Research Unit. 
 
 Our work focuses on characterizing several emerging plant pathogens. One focus of our work is the sudden oak death pathogen _Phytophthora ramorum_:
 
-![Emergence of _Phytophthora ramorum_](/img/ramorum emergence.png)
+![Emergence of _Phytophthora ramorum_](static/img/ramorum emergence.png)
 
 The recently emerged plant pathogen *Phytophthora ramorum* is responsible for causing the sudden oak death epidemic. We have  documented the emergence of *P. ramorum* based on evolutionary and population genetic analyses __[@Grunwald2012emergence;   @Goss2009PLospathogens ]__. Currently infection by *P. ramorum* occurs only in Europe and North America and three clonal lineages are distinguished: EU1, NA1 and NA2 __[@Grunwald2008ramorum]__. Ancient divergence of these lineages supports a scenario in which *P. ramorum* originated from reproductively isolated populations and underwent at least four global migration events __[@goss2009Ancient]__. We also work on other pathogens __[@Davise01280_18]__. This recent work sheds new light on mechanisms of emergence of exotic pathogens and provides crucial insights into migration pathways.
 
