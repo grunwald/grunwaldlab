@@ -1,0 +1,72 @@
+---
+title: "Publications"
+author: "NJ Grunwald"
+date: "2015-07-23T21:13:14-05:00"
+categories: R
+weight: 45
+tags:
+- R Markdown
+- publications
+---
+
+![](/img/journal-logo.png)
+
+<img src="/img/aps-journals-logo.png" align="right" />
+
+## Find us also on [ORCID](https://orcid.org/0000-0003-1656-7602){target="_blank"}, [publons](https://publons.com/researcher/16114/niklaus-j-grunwald/){target="_blank"}, or [Google scholar](https://scholar.google.com/citations?user=t55Dt5sAAAAJ&hl=en){target="_blank"}. 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+```{r echo = FALSE, warning=FALSE}
+library(bibtex)
+library(RefManageR)
+library(knitr)
+
+knitr::opts_chunk$set(autodep = TRUE, echo = FALSE)
+```
+
+```{r include=FALSE, echo = FALSE}
+biblio <- ReadBib("~/Library/CloudStorage/Box-Box/Grunwald_work/grunwaldlab-new-blogdown/static/files/lab-biblio.bib", check = "warn")
+# BibOptions(sorting = "none")
+# sort(biblio, sorting = "ydnt")
+# biblio
+#print(biblio[55:57], .opts = list(bib.style = "authortitle", first.inits = FALSE))
+#BibOptions(restore.defaults = TRUE)
+# sorted <- paste(paste('@', names(biblio), sep=''), collapse = ', ')
+# NoCite(biblio)
+#  WriteBib(biblio, file = 'works.bib', biblatex = TRUE)
+
+#as.list(biblio)[[1]][1]
+#SearchBib(biblio, date = "1995")
+years_to_check <- 1990:2030
+years <- lapply(years_to_check, function(y) SearchBib(biblio, date = as.character(y)))
+names(years) <- as.character(years_to_check)
+years <- years[sapply(years, length) != 0]
+
+print_year <- function(a_year, year_char) {
+  # Get citation
+  NoCite(a_year)
+  raw <- capture.output(PrintBibliography(a_year, .opts = list(style = "HTML")))
+  output <- paste0(raw, collapse = "")
+  
+  # Add header
+  output <- paste0("### ", year_char, "\n", output)
+  
+  # remove italics
+  output <- gsub(output, pattern = "<cite>", replacement = "")
+  output <- gsub(output, pattern = "</cite>", replacement = "")
+  output <- gsub(output, pattern = "\\[[0-9]+\\]", replacement = "")
+  return(output)
+}
+
+```
+
+```{r cache=FALSE, results='asis'}
+for (i in rev(seq_along(years))) {
+  cat(print_year(years[[i]], names(years[i])))
+}
+```
+
+
