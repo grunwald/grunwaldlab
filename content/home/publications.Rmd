@@ -28,7 +28,7 @@ knitr::opts_chunk$set(autodep = TRUE, echo = FALSE)
 ```
 
 ```{r include=FALSE, echo = FALSE}
-biblio <- ReadBib("~/Library/CloudStorage/Box-Box/Grunwald_work/grunwaldlab-new-blogdown/static/files/lab-biblio.bib", check = "warn")
+biblio <- ReadBib("~/Library/CloudStorage/Box-Box/Grunwald_work/grunwaldlab/static/files/lab-biblio.bib", check = "warn")
 # BibOptions(sorting = "none")
 # sort(biblio, sorting = "ydnt")
 # biblio
