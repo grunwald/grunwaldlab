@@ -9,11 +9,11 @@ tags:
 - publications
 ---
 
-![](/img/journal-logo.png)
+![](img/journal-logo.png)
 
-<img src="/img/aps-journals-logo.png" align="right" />
+<img src="img/aps-journals-logo.png" align="right" />
 
-## Find us also on [ORCID](https://orcid.org/0000-0003-1656-7602){target="_blank"}, [publons](https://publons.com/researcher/16114/niklaus-j-grunwald/){target="_blank"}, or [Google scholar](https://scholar.google.com/citations?user=t55Dt5sAAAAJ&hl=en){target="_blank"}. 
+## Find us also on [ORCID](https://orcid.org/0000-0003-1656-7602), [publons](https://publons.com/researcher/16114/niklaus-j-grunwald/), or [Google scholar](https://scholar.google.com/citations?user=t55Dt5sAAAAJ&hl=en). 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
@@ -28,7 +28,7 @@ knitr::opts_chunk$set(autodep = TRUE, echo = FALSE)
 ```
 
 ```{r include=FALSE, echo = FALSE}
-biblio <- ReadBib("~/Library/CloudStorage/Box-Box/Grunwald_work/grunwaldlab/static/files/lab-biblio.bib", check = "warn")
+biblio <- ReadBib("../../static/files/lab-biblio.bib", check = "warn")
 # BibOptions(sorting = "none")
 # sort(biblio, sorting = "ydnt")
 # biblio
@@ -52,7 +52,7 @@ print_year <- function(a_year, year_char) {
   output <- paste0(raw, collapse = "")
   
   # Add header
-  output <- paste0("### ", year_char, "\n", output)
+  output <- paste0("\n\n### ", year_char, "\n\n", output)
   
   # remove italics
   output <- gsub(output, pattern = "<cite>", replacement = "")

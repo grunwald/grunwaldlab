@@ -14,13 +14,13 @@ Welcome to the Grunwald lab at the USDA ARS, Horticultural Crops Research Unit. 
 
 Our work focuses on characterizing several emerging plant pathogens. One focus of our work is the sudden oak death pathogen _Phytophthora ramorum_:
 
-![Emergence of _Phytophthora ramorum_](/img/ramorum emergence.png)
+![Emergence of _Phytophthora ramorum_](img/ramorum emergence.png)
 
 The recently emerged plant pathogen *Phytophthora ramorum* is responsible for causing the sudden oak death epidemic. We have  documented the emergence of *P. ramorum* based on evolutionary and population genetic analyses __[@Grunwald2012emergence;   @Goss2009PLospathogens ]__. Currently infection by *P. ramorum* occurs only in Europe and North America and three clonal lineages are distinguished: EU1, NA1 and NA2 __[@Grunwald2008ramorum]__. Ancient divergence of these lineages supports a scenario in which *P. ramorum* originated from reproductively isolated populations and underwent at least four global migration events __[@goss2009Ancient]__. We also work on other pathogens __[@Davise01280_18]__. This recent work sheds new light on mechanisms of emergence of exotic pathogens and provides crucial insights into migration pathways.
 
 ## Development of computational tools
 
-![Heat-trees produced with our `metacoder` R package](/img/journal.pcbi.1005404.g005.PNG)
+![Heat-trees produced with our `metacoder` R package](img/journal.pcbi.1005404.g005.PNG)
 
 Our lab has developed several computational tools in R including `poppr`, `popprxl`, `vcfR`, `metacoder` , `taxa`, and `effectr` __[@Foster_2017; @Knaus_2018inferring; @Grunwald2016_vcfr; @Kamvar_2014; @Grunwald2015Novel; @tabima2018effectr; @Foster_2018]__. These tools are useful for characterizing emergence of plant pathogens using approaches including population genetics, genomics, and community ecology of microbiomes. These tools are provided with extensive educational resources. We have also used these tools for several websites we maintain.
 

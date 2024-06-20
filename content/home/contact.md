@@ -18,5 +18,5 @@ autolink = true
 email_form = 0
 +++
 
-<img src="/img/ars_logo.png" align="right" width ="150" height="165"/>
-<img src="/img/osu_logo.jpg" align="right" width ="150" height="165"/>
+<img src="img/ars_logo.png" align="right" width ="150" height="165"/>
+<img src="img/osu_logo.jpg" align="right" width ="150" height="165"/>
