@@ -1,7 +1,7 @@
 ---
 title: 'Welcome, Logan!'
 subtitle: ''
-summary: Logn Blair joins the Grunwald lab.
+summary: Logan Blair joins the Grunwald lab.
 authors:
 - admin
 tags:
@@ -28,4 +28,4 @@ projects: []
 
 ---
 
-We warmly welcome USDA ARS postdoc Logan Blair to the Grunwald lab. He will join the team to further develop the `nf-core\pathogensurviellance` computational pipeline to diagnose pathogens using whole genome sequences. He will also conduct population genomic research. 
+We warmly welcome USDA ARS postdoc Logan Blair to the Grunwald lab. He will join the team to further develop the `nf-core\pathogensurveillance` computational pipeline to diagnose pathogens using whole genome sequences. He will also conduct population genomic research on **Phytophthora** pathogens. 
