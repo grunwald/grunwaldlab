@@ -50,7 +50,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "nik.grunwald <@> ars.usda.gov; grunwaln <@> oregonstate.edu" 
+email = "nik.grunwald <@> usda.gov; grunwaln <@> oregonstate.edu" 
 phone = "+1 (541) 738 40 49"
 address = "Horticultural Crops Research Unit, USDA Agricultural Research Service, 3420 NW Orchard Ave., Corvallis, OR 97330, USA"
 
