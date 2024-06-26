@@ -13,7 +13,7 @@ tags:
 
 <img src="img/aps-journals-logo.png" align="right" />
 
-## Find us also on [ORCID](https://orcid.org/0000-0003-1656-7602), [publons](https://publons.com/researcher/16114/niklaus-j-grunwald/), or [Google scholar](https://scholar.google.com/citations?user=t55Dt5sAAAAJ&hl=en). 
+## Find us also on [ORCID](https://orcid.org/0000-0003-1656-7602) or [Google scholar](https://scholar.google.com/citations?user=t55Dt5sAAAAJ&hl=en). 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
