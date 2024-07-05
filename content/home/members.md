@@ -125,20 +125,21 @@ subtitle = ""
 
 ## Current and former undergraduate students
 
-- Marina Whitherell, OSU, 2023-present
-- Riley Buchanan, OSU, 2023-present
+- Atticus Inman, NIFA REEU, 2024
+- Rachel Burns, NIFA REEU, 2024
+- Riley Buchanan, OSU, 2023-2024
 - Mireia Roig-Paül, OSU, 2021-23
-- Stepheny Schelsky, NIFA REU, OSU, 2019
+- Stepheny Schelsky, NIFA REEU, OSU, 2019
 - Kathryn Mulkey, OSU, 2018
-- Jonah Brooks, USDA AFRI REU, 2014
-- Ciera Gray, USDA AFRI REU, 2014
-- Eric Fritz, USDA AFRI REU, 2013
-- Olivia Lorenz, USDA AFRI REU, 2013
-- Kimberly Bellingham, USDA AFRI REU, 2012
-- Taylor Nowlin, USDA AFRI REU, 2012
+- Jonah Brooks, USDA AFRI REEU, 2014
+- Ciera Gray, USDA AFRI REEU, 2014
+- Eric Fritz, USDA AFRI REEU, 2013
+- Olivia Lorenz, USDA AFRI REEU, 2013
+- Kimberly Bellingham, USDA AFRI REEU, 2012
+- Taylor Nowlin, USDA AFRI REEU, 2012
 - Johanna Steinbrenner, 2012-13
-- Ian Brasted, USDA AFRI REU, 2011-12
-- Deepthika Ennamuri, USDA AFRI REU, 2011
+- Ian Brasted, USDA AFRI REEU, 2011-12
+- Deepthika Ennamuri, USDA AFRI REEU, 2011
 - Stephanie Brewer
 - Kim Henslee
 - Molly Elliott
