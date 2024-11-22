@@ -46,9 +46,11 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:grunwaln@oregonstate.edu".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/PhytophthoraLab
+
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/PhytophthoraLab
+
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=t55Dt5sAAAAJ&hl

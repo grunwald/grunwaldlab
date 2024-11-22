@@ -27,7 +27,6 @@ image:
 projects: []
 
 ---
-{{< tweet 1273766762429812736 >}} 
 
 :clap: Congratulations to [**Zach Foster**](https://scholar.google.com/citations?user=A_KrMroAAAAJ&hl=en), who graduated with a Ph.D. in Molecular and Cellular Biology :rocket: from Oregon State University. Zach has been very productive producing two R packages, [metacoder](https://doi.org/10.1371/journal.pcbi.1005404) and [taxa](https://doi.org/10.12688/f1000research.14013.2) as well as publishing several papers before his defense. We could not be prouder of you!
 

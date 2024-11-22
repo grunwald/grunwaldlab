@@ -34,7 +34,6 @@ I was lucky to be invited to a workshop that also featured my dear colleague Jim
 
 It was fun seeing the wonderful and tasty phenotypic diversity of potatoes CIP catalogs:
 
-{{< tweet 1062427000630112256 >}}
 
 
 

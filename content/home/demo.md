@@ -53,5 +53,4 @@ subtitle = ""
 
 :gear: Novel tools and approaches to characterize pathogen emergence and microbiomes
 
-<a href="https://twitter.com/PhytophthoraLab?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

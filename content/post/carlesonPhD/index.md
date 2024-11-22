@@ -28,6 +28,4 @@ projects: []
 
 ---
 
-{{< tweet 1670172325243928578 >}}
-
 Congratulations to Dr. Nick Cauldron for graduating with a PhD in Plant Pathology. Nick conducted comparative genomic research on the sudden oak death pathogen. We will miss your expertise and wit in the lab very much. We wish you the best of luck in your next adventure in the lab of Christina Cuomo at Brown University. 

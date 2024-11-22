@@ -34,4 +34,4 @@ This t-shirt was given away at the [ISMB 2018](https://www.iscb.org/ismb2018) co
 
 We are now all proudly wearing his design:
 
-{{< tweet 1054489199284342784 >}} 
+

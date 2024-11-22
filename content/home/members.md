@@ -55,13 +55,14 @@ subtitle = ""
 
 - [Logan Blair](https://scholar.google.com/citations?user=6pnLWcAAAAAJ&hl=en&oi=ao)
 - [Upasana Dhakal](https://scholar.google.com/citations?user=XIBQqM0AAAAJ&hl=en&oi=ao) (cosupervised with Jeff Chang)
+- [Zach Foster](https://scholar.google.com/citations?user=A_KrMroAAAAJ&hl=en)
+- [Hayden Johnson](https://scholar.google.com/citations?user=jqOiw_oAAAAJ&hl=en&oi=sra)
 - [Camilo H. Paradas Rojas](https://scholar.google.com/citations?user=Sl2YB-EAAAAJ&hl=en&oi=ao) (cosupervised with Jeff Chang)
 - [Martha Sudermann](https://scholar.google.com/citations?user=9kVZPAYAAAAJ&hl=en&oi=ao) (cosupervised with Jeff Chang)
-- [Fernanda Iruegas Bocardo](https://scholar.google.com/citations?user=JIc7VPUAAAAJ&hl=en) (cosupervised with Jeff Chang)
-- [Ricardo I. Alcalá-Briseño](https://scholar.google.com/citations?user=SkBxudIAAAAJ&hl=en&oi=ao) (cosupervised with Jared Leboldus)
-- [Zach Foster](https://scholar.google.com/citations?user=A_KrMroAAAAJ&hl=en)
 
 ## Current graduate Students
+
+
 
 ## Biological Sciences Technicians
 
@@ -71,7 +72,7 @@ subtitle = ""
 
 ## Visiting scientists/Exchange Students
 
-- Dr. Tetyana Tsykun, 2023, Goethe Univeristy, Frankfurt, Germany
+- Dr. Tetyana Tsykun, 2023, Goethe University, Frankfurt, Germany
 - Dr. Martin Mullet, 2020, Mendel University, BRNO, Czech Republic
 - Mohamed Zouaoui, 2019, U Tunisia, Tunis, Tunisia; 
 - Dr. Preeti Panda, 2018, SCION Rotorua, New Zealand; 
@@ -98,7 +99,7 @@ subtitle = ""
 
 ## Former graduate students
 
-- [Nick Carleson](https://www.linkedin.com/in/nick-carleson-5a94746b/), PhD, Plant Pathology, 2023
+- [Nick Cauldron](https://www.linkedin.com/in/nick-carleson-5a94746b/), PhD, Plant Pathology, 2023
 - [Zach Foster](https://scholar.google.com/citations?user=A_KrMroAAAAJ&hl=en), PhD, Molecular and Cellular Biology, 2020 | Postdoc, USDA ARS HCRU 
 - [Shankar Shakya](https://scholar.google.com/citations?user=qlUOXgEAAAAJ&hl=en), PhD, Plant Pathology, 2019 | Data Scientist, Ball Horticultural
 - [Javier Tabima](http://people.oregonstate.edu/~tabimaj/), PhD, Plant Pathology, 2017| Asst. Prof., Clark University
@@ -109,7 +110,9 @@ subtitle = ""
 
 ## Former post-doctoral scientists
 
-- [Nick Carleson](https://www.linkedin.com/in/nick-carleson-5a94746b/)
+- [Fernanda Iruegas Bocardo](https://scholar.google.com/citations?user=JIc7VPUAAAAJ&hl=en) (cosupervised with Jeff Chang)
+- [Ricardo I. Alcalá-Briseño](https://scholar.google.com/citations?user=SkBxudIAAAAJ&hl=en&oi=ao) (cosupervised with Jared Leboldus)
+- [Nick Cauldron](https://www.linkedin.com/in/nick-carleson-5a94746b/)
 - [Andrew Tupper](https://scholar.google.com/citations?user=ltnBAj0AAAAJ&hl=en&oi=ao)
 - [Alexandra Weisberg](https://scholar.google.com/citations?user=PKhT3bMAAAAJ&hl=en&oi=sra) (cosupervised with Jeff Chang)
 - [Brian Knaus](https://scholar.google.com/citations?user=19wcuSwAAAAJ&hl=en)
