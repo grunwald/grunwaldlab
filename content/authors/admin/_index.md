@@ -10,22 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Plant Pathologist Courtesy Professor
+role: Distinguished Senior Research Plant Pathologist | Professor (Courtesy)
 
 # Organizations/Affiliations
 organizations:
 - name: USDA Agricultural Research Service
   url: "https://www.ars.usda.gov/"
-- name: Dept. Botany & Plant Pathology. Oregon State University
+- name: Dept. Botany & Plant Pathology, Oregon State University
   url: "https://bpp.oregonstate.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Our research interests include the ecology, evolution and genomics of emerging plant pathogens.
 
 interests:
-- Pathogen ecology & evolution
+- Pathogen emergence & evolution
 - Population genomics
-- Microbiomes
 - Computational tools
 - Open & reproducible science
 
@@ -43,20 +42,26 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:grunwaln@oregonstate.edu".
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:grunwaln@oregonstate.edu".
 
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/PhytophthoraLab
-
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=t55Dt5sAAAAJ&hl
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/grunwald.bsky.social
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=t55Dt5sAAAAJ&hl
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-1656-7602
 - icon: github
   icon_pack: fab
   link: https://github.com/grunwaldlab
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/niklausgrunwald/ 
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv

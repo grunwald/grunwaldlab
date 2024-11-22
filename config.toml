@@ -65,3 +65,8 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+  
+# Social
+[social]
+#    github  = "https://github.com/rstudio/blogdown"
+    bluesky = "https://bsky.app/profile/grunwald.bsky.social"
