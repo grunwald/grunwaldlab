@@ -56,7 +56,7 @@ subtitle = ""
 - [Logan Blair](https://scholar.google.com/citations?user=6pnLWcAAAAAJ&hl=en&oi=ao)
 - [Upasana Dhakal](https://scholar.google.com/citations?user=XIBQqM0AAAAJ&hl=en&oi=ao) (cosupervised with Jeff Chang)
 - [Zach Foster](https://scholar.google.com/citations?user=A_KrMroAAAAJ&hl=en)
-- [Hayden Johnson](https://scholar.google.com/citations?user=jqOiw_oAAAAJ&hl=en&oi=sra)
+- [Hayden Johnson](https://scholar.google.com/citations?user=jqOiw_oAAAAJ&hl=en&oi=sra) (cosupervised with Jessie Uehling)
 - [Camilo H. Paradas Rojas](https://scholar.google.com/citations?user=Sl2YB-EAAAAJ&hl=en&oi=ao) (cosupervised with Jeff Chang)
 - [Martha Sudermann](https://scholar.google.com/citations?user=9kVZPAYAAAAJ&hl=en&oi=ao) (cosupervised with Jeff Chang)
 
