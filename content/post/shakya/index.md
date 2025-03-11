@@ -28,8 +28,6 @@ projects: []
 
 ---
 
-{{< tweet 1184494214958051328 >}} 
-
 :clap: Congratulations to [**Shankar Shakya**](https://bpp.oregonstate.edu/users/shankar-shakya), who graduated with a Ph.D. in Plant Pathology :rocket: from Oregon State University. Shankar, who got his undergraduate degree from Nepal, had to overcome many obstacles to make it to this point. Congrats to Shankar for doing a phenomenal job with a great seminar and a rigorous thesis defense. We could not be prouder of you!
 
 Here he is at the recent **Plant Health 2019** meeting in Cleveland, OH with his colleagues from the University of Florida where he got his MSc in Plant Pathology:

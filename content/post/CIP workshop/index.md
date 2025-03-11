@@ -30,8 +30,6 @@ projects: []
 
 I was lucky to be invited to a workshop that also featured my dear colleague Jim Bradeen. We both gave a seminar on our work. I then gave a hands-on workshop on conducting population genomic data analysis in R. It was fun working with a very active group of colleagues from South America. I thank Willmer Perez and Jorge Andrade for inviting me. 
 
-{{< tweet 1065301810624241664 >}} 
-
 It was fun seeing the wonderful and tasty phenotypic diversity of potatoes CIP catalogs:
 
 

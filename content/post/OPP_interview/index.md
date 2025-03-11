@@ -30,6 +30,5 @@ projects: []
 
 Open Plant Pathology [OPP](https://openplantpathology.org/) provides a series of interviews with scientists in __Plant Pathology__ or related areas who have embraced open science and contributed knowledge and tools to advance the field. OPP is a community of plant pathologists, mostly computationally-oriented, that supports  several forms of Open Science practices. We support efforts from individuals or groups to develop and deliver next-generation databases and tools for plant pathology-related subjects and applications using open source software, data and repositories. Check out the interview:
 
-{{< tweet 1034290003751264257 >}} 
 
 

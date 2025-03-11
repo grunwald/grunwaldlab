@@ -29,5 +29,3 @@ projects: []
 ---
 
 :clap: Congratulations to Zach Foster for successfully comepting to obtain an ROpenSci scholarship.
-
-{{< tweet 963843056674914304 >}}

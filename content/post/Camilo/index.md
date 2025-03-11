@@ -32,8 +32,4 @@ projects: []
 
 We warmly welcome postdoc Camilo Parada-Rojas to the Grunwald and Chang labs. He will use a range of comparative and population genomic tools to understand Phytophthora emergence. Currently, he is busy sequencing genomes using Oxford nanopore. 
 
-{{<tweet 1664832135163772931>}}
-
 Camilo graduated with a PhD from @QuesadaLabNCSU.
-
-{{<tweet 1655670308185972758>}}

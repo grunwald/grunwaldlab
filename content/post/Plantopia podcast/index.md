@@ -32,6 +32,5 @@ projects: []
 
 I joined host Matt Kasson for an engaging conversation about emerging Phytophthora diseases, the importance of interdisciplinary research and collaboration in addressing global agricultural challenges, and exciting developments in plant health research, including gene editing, high-throughput data analysis, and robotic phenotyping.
 
-{{< tweet 1796605177765437844 >}} 
 
 

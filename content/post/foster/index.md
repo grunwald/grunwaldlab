@@ -36,7 +36,6 @@ Here he is at the recent **Plant Health** meeting in Tampa, FL presenting his in
 
 Zach has given numerous presentations nationally and internationally on analyzing microbiome data in R. 
 
-{{< tweet 760205820709654528 >}}
 
 
 
