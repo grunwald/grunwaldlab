@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Distinguished Senior Research Plant Pathologist | Professor (Courtesy)
+role: Distinguished Senior Research Scientist | Professor (Courtesy)
 
 # Organizations/Affiliations
 organizations:

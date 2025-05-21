@@ -17,18 +17,21 @@ subtitle = ""
 
 ## Nextflow  pipeline
 
-:gear: [`nf-core/pathogensurveillance`](https://github.com/nf-core/pathogensurveillance): a population genomic pipeline for pathogen diagnosis, variant detection, and biosurveillance
+:gear: `nf-core/pathogensurveillance`: a population genomic pipeline for pathogen diagnosis, variant detection, and biosurveillance
 [nf-core repository: [<i class="fab fa-github"></i>](https://github.com/nf-core/pathogensurveillance); development repository:
-[<i class="fab fa-github"></i>](https://github.com/grunwaldlab/pathogensurveillance) 
-]
+[<i class="fab fa-github"></i>](https://github.com/grunwaldlab/pathogensurveillance) ]
+
+![GitHub all releases](https://img.shields.io/github/downloads/nf-core/pathogensurveillance/total?label=downloads)
+![Downloads](https://img.shields.io/badge/downloads-0-blue)
 
 ## Python packages
 
 :gear: `krisp`: A python package for designing diagnostic CRISPR-Cas Dx assays and other PCR-based diagnostic assays using whole genome or vcf data
-[[preprint](https://www.biorxiv.org/content/10.1101/2023.11.16.567433v1) [<i class="fab fa-github"></i>](https://github.com/grunwaldlab/krisp)
-]
+[[<i class="ai ai-open-access"></i>](https://doi.org/10.1371/journal.pcbi.1012139) 
+[<i class="fab fa-github"></i>](https://github.com/grunwaldlab/krisp)]
 ![PyPI](https://img.shields.io/pypi/v/KRISP?label=pypi%20krisp)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/KRISP)
+<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1012139" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 ## R packages 
 
@@ -38,6 +41,7 @@ subtitle = ""
 [![Downloads from Rstudio mirror](https://cranlogs.r-pkg.org/badges/grand-total/poppr)](http://www.r-pkg.org/pkg/poppr) 
 [![](http://cranlogs.r-pkg.org/badges/poppr)](https://cran.r-project.org/package=poppr)
 [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.7717/peerj.281)](https://peerj.com/articles/281/)
+<span class="__dimensions_badge_embed__" data-doi="10.7717/peerj.281" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 :gear: `vcfR`: QC and analysis of population genomic (vcf) data [[<i class="ai ai-open-access"></i>](https://doi.org/10.1111/1755-0998.12549) [<i class="ai ai-open-access"></i>](https://doi.org/10.3389/fgene.2018.00123) [primer](https://grunwaldlab.github.io/Population_Genetics_in_R/)
 [<i class="fab fa-file-pdf-o"></i>](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.12549) [primer](https://knausb.github.io/vcfR_documentation/vcfR_object.html) [<i class="fab fa-github"></i>](https://github.com/knausb/vcfR)]
@@ -46,6 +50,7 @@ subtitle = ""
 [![](http://cranlogs.r-pkg.org/badges/grand-total/vcfR)](https://cran.r-project.org/package=vcfR)
 [![](http://cranlogs.r-pkg.org/badges/vcfR)](https://cran.r-project.org/package=vcfR)
 [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1111/1755-0998.12549)](https://doi.org/10.1111/1755-0998.12549)
+<span class="__dimensions_badge_embed__" data-doi="10.1111/1755-0998.12549" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 :gear: `metacoder`: Create heat-trees and visualize microbiomes [[<i class="ai ai-open-access"></i>](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005404) [primer](https://grunwaldlab.github.io/metacoder_documentation/) [<i class="fab fa-github"></i>](https://github.com/grunwaldlab/metacoder)]
 
@@ -53,6 +58,12 @@ subtitle = ""
 [![Downloads from Rstudio mirror](http://cranlogs.r-pkg.org/badges/grand-total/metacoder)](http://www.r-pkg.org/pkg/metacoder) 
 [![Downloads from Rstudio mirror per month](http://cranlogs.r-pkg.org/badges/metacoder)](http://www.r-pkg.org/pkg/metacoder) 
 [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1371/journal.pcbi.1005404)](https://doi.org/10.1371/journal.pcbi.1005404)
+
+:gear: `demulticoder`: Simultaneous analysis of multiplexed metabarcodes [[<i class="fab fa-github"></i>](https://github.com/grunwaldlab/demulticoder)]
+
+[![cran version](http://www.r-pkg.org/badges/version/demulticoder)](https://cran.r-project.org/package=demulticoder)
+[![](http://cranlogs.r-pkg.org/badges/grand-total/demulticoder)](https://cran.r-project.org/package=demulticoder)
+[![rstudio mirror downloads](http://cranlogs.r-pkg.org/badges/demulticoder)](https://github.com/metacran/cranlogs.app)
 
 :gear: `taxa`: Manipulate hierarchical data [[<i class="ai ai-open-access"></i>](https://f1000research.com/articles/7-272/v1)  [<i class="fab fa-github"></i>](https://github.com/ropensci/taxa)]
 
