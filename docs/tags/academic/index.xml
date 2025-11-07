@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://grunwald.github.io/grunwaldlab/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Preprint publication and first release of PathogenSurveillance</title>
+      <link>https://grunwald.github.io/grunwaldlab/post/pathogensurveillance/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://grunwald.github.io/grunwaldlab/post/pathogensurveillance/</guid>
+      <description>nf-core/pathogensurveillance is a population genomics pipeline for pathogen identification, variant detection, and biosurveillance. The pipeline accepts paths to raw reads for one or more organisms and creates reports in the form of an interactive HTML document. Significant features include the ability to analyze unidentified eukaryotic and prokaryotic samples, creation of reports for multiple user-defined groupings of samples, automated discovery and downloading of reference assemblies from NCBI RefSeq, and rapid initial identification based on k-mer sketches followed by a more robust multi gene phylogeny and SNP-based phylogeny.</description>
+    </item>
     
     <item>
       <title>Plantopia podcast interview with Matt Kasson</title>

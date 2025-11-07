@@ -7,10 +7,22 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://grunwald.github.io/grunwaldlab/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Preprint publication and first release of PathogenSurveillance</title>
+      <link>https://grunwald.github.io/grunwaldlab/post/pathogensurveillance/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://grunwald.github.io/grunwaldlab/post/pathogensurveillance/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;About this Episode&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We are please to announce the first release of &lt;a href=&#34;https://nf-co.re/pathogensurveillance/1.0.0/&#34; target=&#34;_blank&#34;&gt;nf-core/pathogenSurveillance&lt;/a&gt; version 1.0 and the &lt;a href=&#34;https://doi.org/10.1101/2025.10.31.685798&#34; target=&#34;_blank&#34;&gt;bioRxiv prepint&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Plantopia podcast interview with Matt Kasson</title>
