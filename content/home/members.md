@@ -56,7 +56,6 @@ subtitle = ""
 - [Upasana Dhakal](https://scholar.google.com/citations?user=XIBQqM0AAAAJ&hl=en&oi=ao) (cosupervised with Jeff Chang)
 - [Zach Foster](https://scholar.google.com/citations?user=A_KrMroAAAAJ&hl=en)
 - [Hayden Johnson](https://scholar.google.com/citations?user=jqOiw_oAAAAJ&hl=en&oi=sra) (cosupervised with Jessie Uehling)
-- [Camilo H. Paradas Rojas](https://scholar.google.com/citations?user=Sl2YB-EAAAAJ&hl=en&oi=ao) (cosupervised with Jeff Chang)
 - [Martha Sudermann](https://scholar.google.com/citations?user=9kVZPAYAAAAJ&hl=en&oi=ao) (cosupervised with Jeff Chang)
 
 ## Biological Sciences Technicians
@@ -105,25 +104,27 @@ subtitle = ""
 
 ## Former post-doctoral scientists
 
-- [Logan Blair](https://scholar.google.com/citations?user=6pnLWcAAAAAJ&hl=en&oi=ao)
-- [Fernanda Iruegas Bocardo](https://scholar.google.com/citations?user=JIc7VPUAAAAJ&hl=en) (cosupervised with Jeff Chang)
-- [Ricardo I. Alcalá-Briseño](https://scholar.google.com/citations?user=SkBxudIAAAAJ&hl=en&oi=ao) (cosupervised with Jared Leboldus)
-- [Nick Cauldron](https://www.linkedin.com/in/nick-carleson-5a94746b/)
-- [Andrew Tupper](https://scholar.google.com/citations?user=ltnBAj0AAAAJ&hl=en&oi=ao)
-- [Alexandra Weisberg](https://scholar.google.com/citations?user=PKhT3bMAAAAJ&hl=en&oi=sra) (cosupervised with Jeff Chang)
-- [Brian Knaus](https://scholar.google.com/citations?user=19wcuSwAAAAJ&hl=en)
+- [Camilo H. Paradas Rojas](https://cals.cornell.edu/people/camilo-h-parada-rojas), Assist. Prof., Cornell University
+- [Logan Blair](https://scholar.google.com/citations?user=6pnLWcAAAAAJ&hl=en&oi=ao), Postdoc, Oregon State University
+- [Fernanda Iruegas Bocardo](https://scholar.google.com/citations?user=JIc7VPUAAAAJ&hl=en), 
+- [Ricardo I. Alcalá-Briseño](https://plantpath.psu.edu/directory/ria5282), Assist. Prof., Penn State University
+- [Nick Cauldron](https://www.linkedin.com/in/nick-carleson-5a94746b/), Postdoc, Brown University
+- [Andrew Tupper](https://uncw.edu/profiles/t/tuppera), Research Computing and Data Professional, University of North Carolina Wilmington
+- [Alexandra Weisberg](https://weisberglab.com), Assist. Prof., Oregon State University
+- [Brian Knaus](https://scholar.google.com/citations?user=19wcuSwAAAAJ&hl=en), Research Associate, OSU
 - [Felipe Albornoz](http://blogs.oregonstate.edu/joneslab/jones-lab-group/dr-felipe-albornoz/) (cosupervised with Andy Jones)
-- [Ebba Peterson](https://www.researchgate.net/profile/Ebba_Peterson) (cosupervised with Jennifer Parke)
-- [Sydney Everhart](https://plantpathology.unl.edu/sydney-everhart), Dept. Head and Assoc. Professor, Dept.  of Plant Science and Landscape Architecture, University of Connecticut
+- [Ebba Peterson](https://www.researchgate.net/profile/Ebba_Peterson), Research Assocaite, OSU
+- [Sydney Everhart](https://www.canr.msu.edu/psm/), Professor and Chairperson, Department of Plant, Soil and Microbial Sciences, Michigan State University
 - [Jane Stewart](http://bspm.agsci.colostate.edu/people-button/faculty/jane-stewart/), Assoc. Prof., Department of Plant Pathology, University of Georgia, Athens, GA
 - [Stephanie Bollmann](http://ib.oregonstate.edu/faculty/bollmans/Stephanie-Bollmann), Center for Genome Research and Biocomputing, OSU
-- [Erica M. Goss](http://www.epi.ufl.edu/people/faculty-profiles/erica-goss/), Assoc. Prof., Emerging Pathogens Institute, University of Florida
+- [Erica M. Goss](http://www.epi.ufl.edu/people/faculty-profiles/erica-goss/), Professor, Emerging Pathogens Institute, University of Florida
 - [Virginia McDonald](https://www.linkedin.com/in/virginia-mcdonald-35340aa/), Chaffey College
 - Isadora Jimenez-Díaz
 - [Sylvia Fernandez-Pavía](https://www.labpv-umsnh.mx/our-team/), Universidad Michoacana de San Nicolás de Hidalgo, Mexico 
 
 ## Current and former undergraduate students
 
+- Claire Worthy, OSU, 2025
 - Atticus Inman, NIFA REEU, 2024
 - Rachel Burns, NIFA REEU, 2024
 - Riley Buchanan, OSU, 2023-2024
