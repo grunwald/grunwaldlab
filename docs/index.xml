@@ -13,14 +13,16 @@
     
     
     <item>
-      <title>Preprint publication and first release of PathogenSurveillance</title>
+      <title>Preprint and first release of PathogenSurveillance</title>
       <link>https://grunwald.github.io/grunwaldlab/post/pathogensurveillance/</link>
       <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
       
       <guid>https://grunwald.github.io/grunwaldlab/post/pathogensurveillance/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;About this Episode&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Release of PathogenSurveillance&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;We are please to announce the first release of &lt;a href=&#34;https://nf-co.re/pathogensurveillance/1.0.0/&#34; target=&#34;_blank&#34;&gt;nf-core/pathogenSurveillance&lt;/a&gt; version 1.0 and the &lt;a href=&#34;https://doi.org/10.1101/2025.10.31.685798&#34; target=&#34;_blank&#34;&gt;bioRxiv prepint&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are pleased to announce the first release of &lt;a href=&#34;https://nf-co.re/pathogensurveillance/1.0.0/&#34; target=&#34;_blank&#34;&gt;nf-core/pathogensurveillance&lt;/a&gt; version 1.0 and the &lt;a href=&#34;https://doi.org/10.1101/2025.10.31.685798&#34; target=&#34;_blank&#34;&gt;bioRxiv prepint&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Whole genome sequencing (WGS) offers a comprehensive, organism-agnostic method that effectively meets the need for efficient, reliable, and standardized responses to emerging threats from pathogens and pests. Here, we present &lt;strong&gt;PathogenSurveillance&lt;/strong&gt;, an open-source and automated Nextflow pipeline for population genomic analyses of WGS data. It is designed with features tailored for biosurveillance and is suitable for in-field or point-of-care diagnostics. &lt;strong&gt;PathogenSurveillance&lt;/strong&gt; is flexible, accommodating short- and long-read datasets and mixed samples of prokaryotes and/or eukaryotes. It automates all steps, including reference identification and retrieval from the NCBI Assembly database, and produces customizable interactive reports with summaries, phylogenetic trees, and minimum spanning networks that enable species and subspecies level identification. It also outputs quality control metrics and organizes genomic data hierarchically to facilitate downstream analyses. The pipeline runs on any Linux-based system and minimizes the need for advanced computational expertise. Source code is available on GitHub under the open-source MIT license. The pipeline expands the toolkit for real-time biosurveillance, enabling rapid detection and monitoring of pathogens and pests for rapid response to novel variants.&lt;/p&gt;
 </description>
     </item>
     
