@@ -93,7 +93,7 @@ subtitle = ""
 
 ## Former graduate students
 
-- [Nick Cauldron](https://www.linkedin.com/in/nick-carleson-5a94746b/), PhD, Plant Pathology, 2023
+- [Nick Cauldron](https://www.linkedin.com/in/nick-carleson-5a94746b/), PhD, Plant Pathology, 2023 | Postdoc, Brown University
 - [Zach Foster](https://scholar.google.com/citations?user=A_KrMroAAAAJ&hl=en), PhD, Molecular and Cellular Biology, 2020 | Postdoc, USDA ARS HCRU 
 - [Shankar Shakya](https://scholar.google.com/citations?user=qlUOXgEAAAAJ&hl=en), PhD, Plant Pathology, 2019 | Data Scientist, Ball Horticultural
 - [Javier Tabima](http://people.oregonstate.edu/~tabimaj/), PhD, Plant Pathology, 2017| Asst. Prof., Clark University
@@ -106,7 +106,7 @@ subtitle = ""
 
 - [Camilo H. Paradas Rojas](https://cals.cornell.edu/people/camilo-h-parada-rojas), Assist. Prof., Cornell University
 - [Logan Blair](https://scholar.google.com/citations?user=6pnLWcAAAAAJ&hl=en&oi=ao), Postdoc, Oregon State University
-- [Fernanda Iruegas Bocardo](https://scholar.google.com/citations?user=JIc7VPUAAAAJ&hl=en), 
+- [Fernanda Iruegas Bocardo](https://scholar.google.com/citations?user=JIc7VPUAAAAJ&hl=en), Assist. Res. Prof., Penn State University
 - [Ricardo I. Alcalá-Briseño](https://plantpath.psu.edu/directory/ria5282), Assist. Prof., Penn State University
 - [Nick Cauldron](https://www.linkedin.com/in/nick-carleson-5a94746b/), Postdoc, Brown University
 - [Andrew Tupper](https://uncw.edu/profiles/t/tuppera), Research Computing and Data Professional, University of North Carolina Wilmington
