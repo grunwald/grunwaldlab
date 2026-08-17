@@ -24,10 +24,9 @@ biblio <- ReadBib("lab-biblio.bib", check = "warn")
 # NoCite(biblio)
 #  WriteBib(biblio, file = 'works.bib', biblatex = TRUE)
 
-
 #as.list(biblio)[[1]][1]
 #SearchBib(biblio, date = "1995")
-years_to_check <- 1990:2025
+years_to_check <- 1990:2026
 years <- lapply(years_to_check, function(y) SearchBib(biblio, date = as.character(y)))
 names(years) <- as.character(years_to_check)
 years <- years[sapply(years, length) != 0]

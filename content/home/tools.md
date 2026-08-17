@@ -33,6 +33,12 @@ subtitle = ""
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/KRISP)
 <span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1012139" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
+:gear: `heattree_py`: visualize, manipulate, and export phylogenetic trees in Python using an interactive viewer/editor 
+[[<i class="ai ai-open-access"></i>](https://doi.org/10.1094/PHYTOFR-05-26-0055-SC) [<i class="fab fa-github"></i>](https://github.com/grunwaldlab/heattree_py)]
+![PyPI](https://img.shields.io/pypi/v/heattree_py?label=pypi%20heattree_py)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/heattree_py)
+<span class="__dimensions_badge_embed__" data-doi="10.1094/PHYTOFR-05-26-0055-SC" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
 ## R packages 
 
 :gear: `poppr`: Analysis of population genetic data [[<i class="ai ai-open-access"></i>](https://peerj.com/articles/281/) [<i class="ai ai-open-access"></i>](https://doi.org/10.3389/fgene.2015.00208) [primer](https://grunwaldlab.github.io/Population_Genetics_in_R/) [<i class="fab fa-github"></i>](https://github.com/grunwaldlab/poppr) [news](https://grunwaldlab.github.io/poppr/)]
@@ -58,6 +64,12 @@ subtitle = ""
 [![Downloads from Rstudio mirror](http://cranlogs.r-pkg.org/badges/grand-total/metacoder)](http://www.r-pkg.org/pkg/metacoder) 
 [![Downloads from Rstudio mirror per month](http://cranlogs.r-pkg.org/badges/metacoder)](http://www.r-pkg.org/pkg/metacoder) 
 [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1371/journal.pcbi.1005404)](https://doi.org/10.1371/journal.pcbi.1005404)
+
+:gear: `heattree`: visualize, manipulate, and export phylogenetic trees in R using an interactive viewer/editor [[<i class="ai ai-open-access"></i>](https://doi.org/10.1094/PHYTOFR-05-26-0055-SC) [<i class="fab fa-github"></i>](https://github.com/grunwaldlab/heattree)]
+
+[![cran version](http://www.r-pkg.org/badges/version/heattree)](https://cran.r-project.org/package=heattree)
+[![](http://cranlogs.r-pkg.org/badges/grand-total/heattree)](https://cran.r-project.org/package=heattree)
+[![rstudio mirror downloads](http://cranlogs.r-pkg.org/badges/heattree)](https://github.com/metacran/cranlogs.app)
 
 :gear: `demulticoder`: Simultaneous analysis of multiplexed metabarcodes [[<i class="fab fa-github"></i>](https://github.com/grunwaldlab/demulticoder)]
 
