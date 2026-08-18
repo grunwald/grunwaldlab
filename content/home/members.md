@@ -53,6 +53,7 @@ subtitle = ""
 
 ## Current postdoctoral scientists
 
+- [Teddy Borland](https://scholar.google.com/citations?user=NBIW3skAAAAJ&hl=en&oi=ao) (cosupervised with Jeff Chang & Walt Mahaffee)
 - [Upasana Dhakal](https://scholar.google.com/citations?user=XIBQqM0AAAAJ&hl=en&oi=ao) (cosupervised with Jeff Chang)
 - [Zach Foster](https://scholar.google.com/citations?user=A_KrMroAAAAJ&hl=en)
 - [Hayden Johnson](https://scholar.google.com/citations?user=jqOiw_oAAAAJ&hl=en&oi=sra) (cosupervised with Jessie Uehling)
