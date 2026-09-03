@@ -32,13 +32,13 @@ subtitle = ""
 [[<i class="ai ai-open-access"></i>](https://doi.org/10.1371/journal.pcbi.1012139) 
 [<i class="fab fa-github"></i>](https://github.com/grunwaldlab/krisp)]
 ![PyPI](https://img.shields.io/pypi/v/KRISP?label=pypi%20krisp)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/KRISP)
+[![Downloads](https://static.pepy.tech/badge/KRISP)](https://pepy.tech/projects/KRISP)
 <span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pcbi.1012139" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 :gear: `heattree_py`: visualize, manipulate, and export phylogenetic trees in Python using an interactive viewer/editor 
 [[<i class="ai ai-open-access"></i>](https://doi.org/10.1094/PHYTOFR-05-26-0055-SC) [<i class="fab fa-github"></i>](https://github.com/grunwaldlab/heattree_py)]
 ![PyPI](https://img.shields.io/pypi/v/heattree_py?label=pypi%20heattree_py)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/heattree_py)
+[![Downloads](https://static.pepy.tech/badge/heattree_py)](https://pepy.tech/projects/heattree_py)
 <span class="__dimensions_badge_embed__" data-doi="10.1094/PHYTOFR-05-26-0055-SC" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 ## R packages 
