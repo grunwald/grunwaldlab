@@ -21,8 +21,10 @@ subtitle = ""
 [nf-core repository: [<i class="fab fa-github"></i>](https://github.com/nf-core/pathogensurveillance); development repository:
 [<i class="fab fa-github"></i>](https://github.com/grunwaldlab/pathogensurveillance) ]
 
-![GitHub all releases](https://img.shields.io/github/downloads/nf-core/pathogensurveillance/total?label=downloads)
-![Downloads](https://img.shields.io/badge/downloads-0-blue)
+<a href="https://github.com/nf-core/pathogensurveillance">
+  <img src="https://img.shields.io/github/stars/nf-core/pathogensurveillance?style=social" alt="GitHub stars">
+</a>
+<img src="https://img.shields.io/github/forks/nf-core/pathogensurveillance?style=social" alt="GitHub forks">
 
 ## Python packages
 
