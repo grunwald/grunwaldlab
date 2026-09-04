@@ -21,6 +21,7 @@ subtitle = ""
 [nf-core repository: [<i class="fab fa-github"></i>](https://github.com/nf-core/pathogensurveillance); development repository:
 [<i class="fab fa-github"></i>](https://github.com/grunwaldlab/pathogensurveillance) ]
 
+![Latest release](https://img.shields.io/github/v/release/nf-core/pathogensurveillance)
 <a href="https://github.com/nf-core/pathogensurveillance">
   <img src="https://img.shields.io/github/stars/nf-core/pathogensurveillance?style=social" alt="GitHub stars">
 </a>
